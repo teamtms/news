@@ -1,0 +1,1 @@
+import{j as s}from"./index-5dc5a09b.js";import{e as r}from"./index.module-632e5402.js";const c=({children:t,className:a,...e})=>s.jsx("div",{className:`${r[`card_${localStorage.getItem("brand-theme")}`]} ${r.card} ${a}`,...e,children:t});export{c as C};
