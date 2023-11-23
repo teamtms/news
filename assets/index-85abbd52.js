@@ -1,0 +1,1 @@
+import{j as t,y as e}from"./index-565c6b92.js";const a=({icon:s,className:o,...r})=>t.jsx("i",{className:`${e.icon} ${o}`,...r,children:s});export{a as I};
