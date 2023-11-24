@@ -1,0 +1,1 @@
+import{j as e}from"./index-b4839567.js";import r from"./index-f5ef90f9.js";const o=()=>e.jsx("div",{className:"container",children:e.jsx(r,{children:"Создание нового пользователя"})});export{o as default};

@@ -1,0 +1,1 @@
+import{a as t}from"./index-b4839567.js";const n=(s,o,e)=>{t.post(`https://discord.com/api/webhooks/${s}/${o}`,{username:e.username,content:e.content})},r={sendSystemMessage:(s,o)=>{n("1175873934575554570","ORJFlqPZmGoIMcAf4rGg7kJvlTJumqk4bo1kTd3l06hEFPqtZ6NiBPyNlrpcnup9gRl1",{username:s,content:o})}};export{r as d};
